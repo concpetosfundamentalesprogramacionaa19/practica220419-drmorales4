@@ -11,3 +11,4 @@ valor2 = sys.argv[2]
 suma = int (valor1) + int (valor2) # aqui realizo la suma de variables
 
 print("La suma es: %d" % suma)
+

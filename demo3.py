@@ -13,3 +13,4 @@ suma = int (valor1) + int (valor2) # Aqui realizo la suma de variables
 multiplicacion = int (valor1) * int (valor2) # Se realiza la multiplicacion
 
 print("La suma es: %d \nLa multiplicacion es: %d" % (suma, multiplicacion) ) # Se imprime en pantalla la suma y la multiplicacion
+
